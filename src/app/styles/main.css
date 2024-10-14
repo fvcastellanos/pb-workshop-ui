@@ -1,0 +1,29 @@
+.top-separator {
+
+  margin-top: 1em;
+}
+
+.MuiTablePagination-selectLabel {
+
+  margin-top: 15px;
+}
+
+.MuiTablePagination-displayedRows {
+
+  margin-top: 15px;
+}
+
+.odd {
+
+  background-color: hwb(0deg 97% 3%);
+}
+
+.typeahead-value {
+  font-style: italic;
+  font-size: small;    
+}
+
+.icon-action {
+  border: 0px;
+  background-color: transparent
+}
